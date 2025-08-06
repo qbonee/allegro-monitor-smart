@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "PLAYWRIGHT_BROWSERS_PATH": "0"
+    },
+    "scripts": {
+      "build": "playwright install"
+    }
+  }
+}
